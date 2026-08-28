@@ -44,10 +44,11 @@ Earlier: Kostmann, and IT support in Infineon's cleanroom production.
 
 ### What I reach for
 
-**Infra** Proxmox · Azure (Bicep, Container Apps) · Cloudflare · Docker ·
-Kubernetes · Terraform · Ansible · WireGuard
-**Code** Python · TypeScript · Rust · FastAPI · Vue · Svelte
-**Data & AI** PostgreSQL · Redis · Qdrant · embeddings and RAG · scikit-learn · Ollama
+**Infra** — Proxmox · Azure (Bicep, Container Apps) · Cloudflare · Docker · Kubernetes · Terraform · Ansible · WireGuard
+
+**Code** — Python · TypeScript · Rust · FastAPI · Vue · Svelte
+
+**Data & AI** — PostgreSQL · Redis · Qdrant · embeddings and RAG · scikit-learn · Ollama
 
 ### Elsewhere
 
