@@ -1,57 +1,70 @@
-## Paul Gradischnig
+<h1 align="center">Paul Gradischnig</h1>
 
-Systems and infrastructure engineer in Villach, Austria. I write software, give it
-a home, and keep it alive.
+<p align="center">
+  Systems &amp; infrastructure engineer in Villach, Austria.<br>
+  I write software, give it a home, and keep it alive.
+</p>
 
-Fresh out of HTL Villach with a Matura in IT and cyber security — network
-engineering, cloud, software development and information systems. The throughline
-across all of it is the same: build something real, then keep it running under load.
+<p align="center">
+  <a href="https://paulgradischnig.com"><img src="https://img.shields.io/badge/paulgradischnig.com-0B1016?style=for-the-badge&logo=firefoxbrowser&logoColor=F2B13C" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/paul-gradischnig"><img src="https://img.shields.io/badge/LinkedIn-0B1016?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:contact@paulgradischnig.com"><img src="https://img.shields.io/badge/Email-0B1016?style=for-the-badge&logo=maildotru&logoColor=F2B13C" alt="Email"></a>
+</p>
 
-### Valiora
+---
 
-I lead [Valiora](https://valiora.at), a grocery price-comparison platform for
-Austria, built in cooperation with Arbeiterkammer Kärnten as a consumer-protection
-tool rather than an ad business. You type a shopping list; it works out which
-supermarket rings it up for the least money.
+### 🛒 Valiora — Initiator &amp; Tech Lead
 
-I run the team, own the technical direction, and build the AI pipeline behind it:
-parsing digital flyers, normalising thousands of products into something
-comparable, and tracking price history across chains.
+A grocery price-comparison platform for Austria, built with Arbeiterkammer Kärnten
+as a consumer-protection tool rather than an ad business. Type a shopping list, get
+the cheapest supermarket for it. I run the team, the technical direction, and the AI
+pipeline that turns digital flyers into comparable products.
 
-Third of 50+ entries at Innovation@School Carinthia, finalist in the 90 Seconds
-pitch competition, currently in the SILC social-impact programme at the University
-of Klagenfurt.
+`3rd of 50+ · Innovation@School`  `Finalist · 90 Seconds Pitch`  `SILC programme · AAU Klagenfurt`
 
-### Homelab
+### 🖥️ Homelab
 
-A three-node Proxmox cluster where one node is a quorum device 600 km away in a
-Hetzner rack. Self-hosted models, and a GPU server that stays asleep until work
-arrives and wakes on demand over an encrypted tunnel. Not a tutorial
-follow-along — it runs things I depend on, which is why it has to survive a node
-going away.
+Three-node Proxmox cluster with the quorum device 600 km away in a Hetzner rack,
+self-hosted models, and a GPU server that sleeps until work arrives and wakes over
+an encrypted tunnel. It has to survive a node going away, because things I depend
+on run on it.
 
-### Before that
+### 🎓 Background
 
-Two summers at **KELAG**. The first became my diploma thesis: a Chaos Toolkit
-extension for Azure Container Apps that injects CPU and memory stress into
-serverless containers through a sidecar, because there is no host to reach.
-The second was four weeks on a smaller question with a bigger answer — what a
-smart meter reading every 15 minutes reveals about a household. Photovoltaics,
-battery storage, EV charging and electric heating each leave their own signature
-in the load profile, and a model trained on a few thousand households can read them.
+HTL Villach, Matura in IT &amp; cyber security. Two summers at **KELAG**: a Chaos
+Toolkit extension for Azure Container Apps that injects CPU and memory stress into
+serverless containers via a sidecar — my diploma thesis — and four weeks reading
+household appliances out of 15-minute smart-meter load profiles.
 
-Earlier: Kostmann, and IT support in Infineon's cleanroom production.
+---
 
-### What I reach for
+### 🧰 Tech
 
-**Infra** — Proxmox · Azure (Bicep, Container Apps) · Cloudflare · Docker · Kubernetes · Terraform · Ansible · WireGuard
+**Infrastructure**
 
-**Code** — Python · TypeScript · Rust · FastAPI · Vue · Svelte
+![Proxmox](https://img.shields.io/badge/Proxmox-0B1016?style=for-the-badge&logo=proxmox&logoColor=F2B13C)
+![Azure](https://img.shields.io/badge/Azure-0B1016?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0B1016?style=for-the-badge&logo=cloudflare&logoColor=F2B13C)
+![Docker](https://img.shields.io/badge/Docker-0B1016?style=for-the-badge&logo=docker&logoColor=F2B13C)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0B1016?style=for-the-badge&logo=kubernetes&logoColor=F2B13C)
+![Terraform](https://img.shields.io/badge/Terraform-0B1016?style=for-the-badge&logo=terraform&logoColor=F2B13C)
+![Ansible](https://img.shields.io/badge/Ansible-0B1016?style=for-the-badge&logo=ansible&logoColor=F2B13C)
+![Linux](https://img.shields.io/badge/Linux-0B1016?style=for-the-badge&logo=linux&logoColor=F2B13C)
 
-**Data & AI** — PostgreSQL · Redis · Qdrant · embeddings and RAG · scikit-learn · Ollama
+**Code**
 
-### Elsewhere
+![Python](https://img.shields.io/badge/Python-0B1016?style=for-the-badge&logo=python&logoColor=F2B13C)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1016?style=for-the-badge&logo=typescript&logoColor=F2B13C)
+![Rust](https://img.shields.io/badge/Rust-0B1016?style=for-the-badge&logo=rust&logoColor=F2B13C)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B1016?style=for-the-badge&logo=fastapi&logoColor=F2B13C)
+![Vue](https://img.shields.io/badge/Vue-0B1016?style=for-the-badge&logo=vuedotjs&logoColor=F2B13C)
+![Svelte](https://img.shields.io/badge/Svelte-0B1016?style=for-the-badge&logo=svelte&logoColor=F2B13C)
+![Tailwind](https://img.shields.io/badge/Tailwind-0B1016?style=for-the-badge&logo=tailwindcss&logoColor=F2B13C)
 
-[paulgradischnig.com](https://paulgradischnig.com) ·
-[LinkedIn](https://www.linkedin.com/in/paul-gradischnig) ·
-[contact@paulgradischnig.com](mailto:contact@paulgradischnig.com)
+**Data &amp; AI**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1016?style=for-the-badge&logo=postgresql&logoColor=F2B13C)
+![Redis](https://img.shields.io/badge/Redis-0B1016?style=for-the-badge&logo=redis&logoColor=F2B13C)
+![Qdrant](https://img.shields.io/badge/Qdrant-0B1016?style=for-the-badge&logo=qdrant&logoColor=F2B13C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0B1016?style=for-the-badge&logo=scikitlearn&logoColor=F2B13C)
+![Ollama](https://img.shields.io/badge/Ollama-0B1016?style=for-the-badge&logo=ollama&logoColor=F2B13C)
